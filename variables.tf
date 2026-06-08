@@ -1,0 +1,3 @@
+variable "infrastructure" {
+  type = any
+}
