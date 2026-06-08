@@ -32,6 +32,8 @@ Azure Virtual Network (Managed by Terraform)
 ---
 
 ## 📁 Project Structure
+
+
 terraform-azure-project/
 │
 ├── main.tf
